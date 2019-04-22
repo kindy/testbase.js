@@ -1,0 +1,12 @@
+{
+  "name": "@docid/test-base",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": "git@github.com:kindy/testbase.js.git",
+  "author": "Kindy Lin",
+  "license": "MIT",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "js-yaml": "^3.13.1"
+  }
+}
